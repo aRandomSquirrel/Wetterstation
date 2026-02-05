@@ -1,15 +1,16 @@
-#WeatherStation
-An innovative school project for collecting and analyzing environmental data.
+# #Wetterstation
 
-Welcome to the official repository of our weather station. This project is currently under development and serves as the central platform for our future development results.
+> **An innovative school project dedicated to environmental data collection and analysis.**
 
-📅 Planned Structure (Coming Soon)
-We are currently preparing to release the following content:
+Welcome to the official repository of our weather station project. This project is currently under development and serves as the central hub for our upcoming results and resources.
 
-Source Code: The logic behind data collection and sensor evaluation.
+### 📅 Planned Structure (Coming Soon)
+We are currently preparing the release of the following sections:
+* **Source Code:** The core logic for data acquisition and sensor processing.
+* **Documentation:** Technical specifications, setup guides, and project reports.
+* **Media & Assets:** Wiring diagrams, build photos, and related presentations.
 
-Documentation: Technical specifications and our project report.
+*Note: The respective subdirectories will be populated successively as the project progresses.*
 
-Media & Files: Circuit diagrams, assembly photos, and accompanying presentations.
-
-Note: The corresponding subdirectories will be added successively as the project progresses.
+---
+*This repository is automatically maintained.*
