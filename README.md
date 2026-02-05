@@ -1,13 +1,15 @@
-# #Wetterstation
+#WeatherStation
+An innovative school project for collecting and analyzing environmental data.
 
-> **Ein innovatives Schulprojekt zur Erfassung und Analyse von Umweltdaten.**
+Welcome to the official repository of our weather station. This project is currently under development and serves as the central platform for our future development results.
 
-Willkommen im offiziellen Repository unserer Wetterstation. Dieses Projekt befindet sich aktuell im Aufbau und dient als zentrale Plattform für unsere zukünftigen Entwicklungsergebnisse.
+📅 Planned Structure (Coming Soon)
+We are currently preparing to release the following content:
 
-### 📅 Geplante Struktur (In Kürze verfügbar)
-Wir bereiten derzeit die Veröffentlichung folgender Inhalte vor:
-* **Quellcode:** Die Logik hinter der Datenerfassung und Sensorauswertung.
-* **Dokumentation:** Technische Spezifikationen und unser Projektbericht.
-* **Medien & Dateien:** Schaltpläne, Fotos vom Aufbau und begleitende Präsentationen.
+Source Code: The logic behind data collection and sensor evaluation.
 
-*Hinweis: Die entsprechenden Unterverzeichnisse werden sukzessive im Laufe des Projekts ergänzt.*
+Documentation: Technical specifications and our project report.
+
+Media & Files: Circuit diagrams, assembly photos, and accompanying presentations.
+
+Note: The corresponding subdirectories will be added successively as the project progresses.
