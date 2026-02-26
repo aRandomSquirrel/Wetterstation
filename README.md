@@ -1,4 +1,4 @@
-# #Wetterstation
+# #Weatherstation
 
 > **An innovative school project dedicated to environmental data collection and analysis.**
 
